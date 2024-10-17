@@ -17,3 +17,6 @@ ya que anteriormente habíamos mergeado a la rama master la rama taller-info, la
 GitHub repositorio remoto que permite almacenar, compartir proyectos, digamos, que es la nube de git.
 
 Git es la herramienta y gitHub la plataforma
+
+## a las pregunta de si puedo ver las otras ramas
+Ya que solo he hecho push de mi rama main, no pouedo ver las otras dos. pero aprovecho y hago push de las otras y ademas contesto a esta pregunta que se me pasó
