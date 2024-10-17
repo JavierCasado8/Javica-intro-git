@@ -5,3 +5,6 @@ Si funcionaría si lo omitimos serviría si queremquisiéramos  configurar un no
 ## ejercicio 4
 Este taller fue inagurado en 1492 un día después del viernes de Dolores
 Nuestra misión principal es hacer espadas de adamantium
+
+## ❓ ¿Desde la rama taller-info, el archivo .txt con tu nombre tiene contenido o está vacío? ¿Por qué crees que es así?
+al apuntar la head ahora mismo a esta rama, no se ha trabajado aun con ese archivo
