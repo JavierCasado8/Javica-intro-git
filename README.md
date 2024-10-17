@@ -11,3 +11,9 @@ al apuntar la head ahora mismo a esta rama, no se ha trabajado aun con ese archi
 
 ##Pregunta 7  mensaje already up to date por qué me ha dado este mensaje
 ya que anteriormente habíamos mergeado a la rama master la rama taller-info, la máquina me dice que ya no hace falta
+
+## pregunta 8
+ Git que permite trabajar de forma independiente y luego sincronizar los cambios.
+GitHub repositorio remoto que permite almacenar, compartir proyectos, digamos, que es la nube de git.
+
+Git es la herramienta y gitHub la plataforma
