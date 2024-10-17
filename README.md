@@ -8,3 +8,6 @@ Nuestra misión principal es hacer espadas de adamantium
 
 ## ❓ ¿Desde la rama taller-info, el archivo .txt con tu nombre tiene contenido o está vacío? ¿Por qué crees que es así?
 al apuntar la head ahora mismo a esta rama, no se ha trabajado aun con ese archivo
+
+##Pregunta 7  mensaje already up to date por qué me ha dado este mensaje
+ya que anteriormente habíamos mergeado a la rama master la rama taller-info, la máquina me dice que ya no hace falta
